@@ -1,5 +1,5 @@
 {
-  "name": "maplibre-quickstart",
+  "name": "maplibre-features",
   "scripts": {
     "build": "node build.mjs",
     "serve": "node build.mjs && node ./dist/main.js"
